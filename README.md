@@ -1,6 +1,6 @@
 MumBot
 ======
-A Java mumble\murmur bot.  It can change channel name, kick users out of a channel, and has MOTD functionality.  Type !help into the channel the bot resides.
+A Java mumble murmur bot.  It can change channel name, kick users out of a channel, and has MOTD functionality.  Type !help into the channel the bot resides.
 
 This is very much just a proof of concept.
 
